@@ -1,1 +1,1 @@
-# 2021-25-MAP2-G19-AI-ChatBot-For-Smart-Assistance
+This project can be installed by first cloning the repository and then installing the required dependencies. After that, you can run the main.py file to start using the chatbot. This AI Chatbot is designed to understand user queries and provide intelligent responses, utilizing Python for its implementation with a modular and customizable architecture.# 2021-25-MAP2-G19-AI-ChatBot-For-Smart-Assistance
